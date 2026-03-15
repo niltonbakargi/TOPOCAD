@@ -1,0 +1,21 @@
+# Android build
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Key / signing
+*.jks
+*.keystore
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/

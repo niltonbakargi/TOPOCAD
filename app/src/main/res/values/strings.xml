@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Topocad</string>
+    <string name="selecionar_csv">Selecionar arquivo CSV</string>
+    <string name="usar_cota_baixa">Usar cota mais baixa</string>
+    <string name="altura_cota">Altura da cota</string>
+    <string name="digite_altura">Digite a altura</string>
+    <string name="gerar_script">Gerar Script AutoCAD</string>
+    <string name="pontos_processados">Pontos Processados</string>
+    <string name="processando">Processando...</string>
+</resources>
